@@ -70,6 +70,7 @@
   
   ```bash
   pnpm start
+ID: 6542826799422772239
   ```
   
   You should have Bolt running locally on <b>localhost:8080</b>!
